@@ -1,0 +1,6 @@
+Mickey Mouse
+90 93 100
+Donald Duck
+70 74 80
+Goofy
+50 58 60

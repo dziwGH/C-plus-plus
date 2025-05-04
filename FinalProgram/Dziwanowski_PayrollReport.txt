@@ -1,0 +1,12 @@
+Name                  Pay Rate     Hours    Gross Pay     Taxes   Net Pay
+
+Eason Hayden             15.00        41       622.50    125.75    496.75
+Tree Oliver              13.75        35       481.25     97.21    384.04
+Eastwood Clint           12.50        45       593.75    119.94    473.81
+Wayne Bruce              15.50        39       604.50    122.11    482.39
+Jenkins Leeroy           14.20        40       568.00    114.74    453.26
+Dover Dylan              15.00        32       480.00     96.96    383.04
+Kaplan Jeff              17.00        42       731.00    147.66    583.34
+Roronoa Zoro             14.75        37       545.75    110.24    435.51
+Yaeger Eren              13.33        26       346.58     70.01    276.57
+Kaneki Ken               14.50        34       493.00     99.59    393.41

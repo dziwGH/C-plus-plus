@@ -1,0 +1,5 @@
+Amy 	89 	54 	92
+Bob 	92 	88 	65
+Carl 	75 	87 	91
+Darla 98 	94 	90
+Eugene 65 	75 	85

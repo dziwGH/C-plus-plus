@@ -1,0 +1,3 @@
+﻿  GuessingGame.cpp
+D:\COMS 1013\Programs\GuessingGame\GuessingGame.cpp(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GuessingGame.vcxproj -> D:\COMS 1013\Programs\GuessingGame\x64\Debug\GuessingGame.exe
